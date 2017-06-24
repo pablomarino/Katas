@@ -4,7 +4,7 @@
   "description": "Fizz Buzz Kata",
   "main": "js/app.js",
   "scripts": {
-    "test": "mocha js/app.js"
+    "test": "mocha"
   },
   "devDependencies": {
     "mocha": "*"
