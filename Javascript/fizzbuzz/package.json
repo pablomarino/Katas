@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.1.0",
+  "description": "Fizz Buzz Kata",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "mocha js/app.js"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "author": "Pablo Mariño",
+  "license": "GPL-3.0"
+}
